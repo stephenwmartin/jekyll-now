@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/stephenwmartin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://stephenwmartin.github.io
+  * I am stephenwmartin (https://keybase.io/stephenwmartin) on keybase.
+  * I have a public key with fingerprint 24FC E6A0 58E4 E3E4 E317  E6CE 04E0 D7B1 DFF9 1DE1
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101c7a3eb22330e14f423ca62025bce901cc503bd042ab011bdfc42ece0c782fd140a",
+      "fingerprint": "24fce6a058e4e3e4e317e6ce04e0d7b1dff91de1",
+      "host": "keybase.io",
+      "key_id": "04e0d7b1dff91de1",
+      "kid": "0101c7a3eb22330e14f423ca62025bce901cc503bd042ab011bdfc42ece0c782fd140a",
+      "uid": "9ed7aebcc4d6c1dc122a5f0e817c8619",
+      "username": "stephenwmartin"
+    },
+    "service": {
+      "hostname": "stephenwmartin.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1504030772,
+  "expire_in": 157680000,
+  "prev": "cb6463551c24d487271ae31327e353ac8ad8590ddfc923ff203e311bd68f11f3",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.73
+Comment: https://keybase.io/crypto
+
+yMIqAnicrVJbSBVBGD5amRlCQi9dLNkKikxmZq/nlCAkFUg3ulgQHXZn/vVsx3ZP
+u+vRUru+GER0IAzKIoIMKyu6SC+V5yQYGRVkBtVD0JXKqCi6aNZsl6d6bGAYZv7v
++/7/++fvyh8Wysu602R+fXzBOZ7Vk26rCa0+ekaqFwyHbRQi9UIcfh5QzcDzo3GL
+CREBYYSpqotgECKKCLBkSkSkukIQkQ0KYR6mMhINhiSiGwhjg5lUIkABUVUjJsMS
+0oViwbTsKnATrmX7XJZIJgVFR7IGEojBxioonCMBYqqBmWmGMQPMiTHHCxi8OEP3
+oMRy+Bu/RH+V9zf+P9dd81MuDEzVwaBUYgrFjGJCdNlEoGGVagoOB0APXFtfDxzt
++ZCIgV27Xnd9yxYaiwUeS1oUgvYGfv6JK6my/FiN8cthwnV8hzrVHBXz/YQXCVT8
+jYmAVgtG9Ldg1LBsxjvLGUlwPcuxhQjmSOpbQQYsIwmJSFVJsQB1CcuFqBUgZFXR
+EF9BHkhySWookiLKMqZEYpKmEhXr/E9EooIoizrVdKbJYcR4j8JENE2CRB7mPVM0
+E2NTFAKLG2xHiMi8TL0qMGdV2bpf44LQmOlcMzyUlRfKGZEdTFwob9SYP3PYBiO/
+r1rXeXLJrrnnlreU9L2/lFryqeDFqvOly7xZLSt6XnW8bU9NWLopVDex7MT+3XNO
+J9vTBy/e7et5MNB+5IE3s6Msc6Ro0XTtYqWc6WeDLW2F7g31dmrl9e705JdlM3Mf
+5Yupkiv1jSPPt5buyB0oOH21bmBDxdovbiwz+mn3wQUDRZFt28urH/mX50+69/X5
+oVeJz3Ymv9wjC183N/RO/9bQmejwut8VbT3qQUX2teGnKh4aXfVWx9adL27lPKye
+8mbZzZzWA2P7Z0enJdftGzcjlX62uenjh2N7Ng0d/rB4MN7ZTFrnTa3sGnxyoZeO
+ixcO9U4quHP28Ph06P7ZLdf3DplXyz/+APNwWFY=
+=uOGu
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/stephenwmartin
+
+==================================================================
+
