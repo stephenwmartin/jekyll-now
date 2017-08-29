@@ -13,7 +13,7 @@ Drop a line!
 
 [stephenwmartin@protonmail.ch](mailto:stephenwmartin@protonmail.ch)  
 
-Fingerprint: `7904 8acd c0a2 d660 fdfa 8ddf 5ae0 11fc e913 b0f2`  
+Fingerprint: `7904 8acd c0a2 d660 fdfa 8ddf 5ae0 11fc e913 b0f2`, PGP [public key](https://stephenwmartin.github.io/publickey.stephenwmartin@protonmail.ch.txt)
 You can find me also on [keybase](https://keybase.io/stephenwmartin)  
 
 Now go get a cup of coffee :D
